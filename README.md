@@ -33,7 +33,7 @@ Modifying system partitions voids your warranty. A bad DTBO flash will cause a b
 
 <hr>
 
-<h2>📸 Screenshots</h2>
+<h2>📸 Screenshots (With this superior image quality feature module, you can get 165fps in every game.)</h2>
 
 <p>Chronological flashing / verification process (oldest → newest):</p>
 
