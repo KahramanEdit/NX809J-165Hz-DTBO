@@ -50,6 +50,21 @@ Modifying system partitions voids your warranty. A bad DTBO flash will cause a b
 
 <hr>
 
+<h2>🎯 Recommended Target List & FPS Boost Settings (PUBG Mobile)</h2>
+
+<p>To achieve the best possible 165 FPS experience in PUBG Mobile, use the following settings. These are the exact selections shown in the screenshots below.</p>
+
+<p align="center">
+  <img src="Screenshot_20261018_151959.jpg" width="300" alt="Target List Settings"><br>
+  <em>Target List settings – ensure these options are selected.</em><br><br>
+
+  <img src="Screenshot_PUBG MOBILE_20261018_152418.jpg" width="300" alt="FPS Boost Settings 1"><br>
+  <img src="Screenshot_PUBG MOBILE_20261018_152432.jpg" width="300" alt="FPS Boost Settings 2"><br>
+  <em>FPS Boost settings – apply these exact configurations for maximum frame rate.</em>
+</p>
+
+<hr>
+
 <h2>🛠️ Prerequisites</h2>
 
 <ol>
